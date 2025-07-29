@@ -4,11 +4,6 @@ This repository provides a Jupyter Notebook for predicting BTC/USD volatility us
 
 ## Repository Structure
 
-├── data/ 
-│ └── BTCUSD_1m_Binance.csv                 # This file is not included in the repository due to its large size. 
-├── btc_vol_predict.ipynb                   # Main notebook containing the analysis and modeling code 
-└── requirements.txt                        # List of required Python packages
-
 ```bash
 ├── data/ 
 │ └── BTCUSD_1m_Binance.csv             # CSV file with 1-minute BTC/USD data. Is not included in the repository due to its large size.
